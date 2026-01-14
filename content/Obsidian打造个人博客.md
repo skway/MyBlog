@@ -4,3 +4,7 @@ date: 2024-05-20
 ---
 
 这是第一篇博客。
+
+```
+npx quartz build --serve
+```
